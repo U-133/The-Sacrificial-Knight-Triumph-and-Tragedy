@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Traps
+  - Boss
+  - Enemy
+  - Obstacle
+  - Enemies
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - bg1
+  - bg2
+  - bg3
+  - bg4
+  - Middleground
+  - Platform
+  - Player
+  - Ground
+  - Boss
+  - Enemy
+  - Traps
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1556989391
+    locked: 0
+  - name: Middleground
+    uniqueID: 12619927
+    locked: 0
+  - name: Platform
+    uniqueID: 1598805081
+    locked: 0
+  - name: Ground
+    uniqueID: 298887541
+    locked: 0
+  - name: Traps
+    uniqueID: 3458868735
+    locked: 0
+  - name: Player
+    uniqueID: 1080998571
+    locked: 0
+  - name: Boss
+    uniqueID: 3189255757
+    locked: 0

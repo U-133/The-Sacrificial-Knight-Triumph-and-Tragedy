@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 05733a7cd24672047a01f095b83a89a0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firePoint: {instanceID: 0}
+  - firebullet1: {instanceID: 0}
+  - ultibullet1: {instanceID: 0}
+  - playerMovement: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
